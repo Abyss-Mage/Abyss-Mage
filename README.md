@@ -1,4 +1,4 @@
-<img src="assets/svg/header_en.svg"></img>
+<img src="asset.svg"></img>
 
 ### I'm Anirban - aka [Abyss_Mage](https://www.google.com/search?q=Abyss_Mage) 👋
 

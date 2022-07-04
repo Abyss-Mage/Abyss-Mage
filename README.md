@@ -35,7 +35,7 @@ Here's My [Contact Email][gmail]. Maybe we will meet in the distant future of a 
 <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=Abyss-Mage&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abyss-Mage&repo=anuraghazra.github.io&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abyss-Mage&repo=abyss-mage.github.io&theme=buefy">
     <br>
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Abyss-Mage)

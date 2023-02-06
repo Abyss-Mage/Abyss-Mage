@@ -25,12 +25,8 @@ Here's My [Contact Email][gmail]. Maybe we will meet in the distant future of a 
     <code><img width="25px" src="https://raw.githubusercontent.com/TheStyxo/TheStyxo/main/assets/html.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/TheStyxo/TheStyxo/main/assets/nodejs.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/TheStyxo/TheStyxo/main/assets/docker.svg"></code>
-    <code>
-    <img width="25px" src="https://raw.githubusercontent.com/TheStyxo/TheStyxo/main/assets/visualstudiocode.svg">
-    </code>
-    <code>
-    <img width="25px" src="https://raw.githubusercontent.com/TheStyxo/TheStyxo/main/assets/git.svg">
-    </code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/TheStyxo/TheStyxo/main/assets/visualstudiocode.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/TheStyxo/TheStyxo/main/assets/git.svg"></code>
 <br />
 <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=Abyss-Mage&show_icons=true&hide_border=true&theme=dark&count_private=true">

@@ -43,7 +43,7 @@
       </td>
       <td valign="center" width="40%">
         <div align="center">
-          <img src="https://bbs.hoyolab.com/hoyowiki/picture/character/%E6%9E%AB%E5%8E%9F%E4%B8%87%E5%8F%B6/avatar_header.png" width="300" alt="Kazuha Gif" />
+          <img src="https://cdn.discordapp.com/attachments/1279082335806947420/1443525102808596500/Gemini_Generated_Image_wtqcszwtqcszwtqc.png?ex=69296303&is=69281183&hm=a09f086056d0d49224dcc29b7507ffe7c8ab287707360574aa8d0cdcf9056e0f&" width="300" alt="Kazuha Gif" />
         </div>
       </td>
     </tr>

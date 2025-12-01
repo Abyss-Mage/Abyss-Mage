@@ -51,5 +51,5 @@
 </div>
 <hr/>
 <div align="center">
-  <img src="https://github.com/abyss-mage/abyss-mage/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Abyss-Mage/Abyss-Mage/blob/2953c7dbb914612f83d3fdde015beb7e41d7cb0a/github-contribution-grid-snake.svg"/>
 </div>

@@ -49,27 +49,7 @@
     </tr>
   </table>
 </div>
-
 <hr/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abyss-mage&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abyss-mage&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abyss-mage&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://github.com/abyss-mage/abyss-mage/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
